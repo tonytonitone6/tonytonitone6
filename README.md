@@ -1,6 +1,5 @@
 👋 Hi, I'm Stan! I’m the senior frontend developer focused on teacking co-workers and how to improve current project of performance
 ## About Me
-With a background in military service and significant leadership in tech education, I bring a unique combination of discipline, strategic vision, and technical prowess to the programming world. My passion lies in developing software solutions that not only solve problems but also create opportunities for those transitioning from military to civilian life.
 
 ## Technical Skills 🛠️
 - **Languages:** JavaScript, TypeScript, Python
